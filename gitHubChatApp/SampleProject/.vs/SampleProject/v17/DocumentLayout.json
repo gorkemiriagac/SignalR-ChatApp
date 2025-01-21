@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\hubs\\apphubtypesafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\hubs\\apphubtypesafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\wwwroot\\js\\script-signal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\wwwroot\\js\\script-signal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\hubs\\iapphubtypesafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\hubs\\iapphubtypesafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|c:\\users\\gorke\\onedrive\\masa\u00FCst\u00FC\\githubchatapp\\sampleproject\\sampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C1EA1D-14F6-4A17-B770-3AFC95FADFAF}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1051,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppHubTypeSafe.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Hubs\\IAppHubTypeSafe.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Hubs\\IAppHubTypeSafe.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Hubs\\IAppHubTypeSafe.cs",
+              "RelativeToolTip": "SampleProject\\Hubs\\IAppHubTypeSafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:59:48.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "script-signal.js",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\wwwroot\\js\\script-signal.js",
+              "RelativeDocumentMoniker": "SampleProject\\wwwroot\\js\\script-signal.js",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\wwwroot\\js\\script-signal.js",
+              "RelativeToolTip": "SampleProject\\wwwroot\\js\\script-signal.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-10T13:44:48.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppHubTypeSafe.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Hubs\\AppHubTypeSafe.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Hubs\\AppHubTypeSafe.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Hubs\\AppHubTypeSafe.cs",
+              "RelativeToolTip": "SampleProject\\Hubs\\AppHubTypeSafe.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:47:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SampleProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAQwLwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T13:13:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Program.cs",
+              "RelativeDocumentMoniker": "SampleProject\\Program.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\Program.cs",
+              "RelativeToolTip": "SampleProject\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T20:34:42.549Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "SampleProject\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Masa\u00FCst\u00FC\\gitHubChatApp\\SampleProject\\SampleProject\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "SampleProject\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-16T13:16:46.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
